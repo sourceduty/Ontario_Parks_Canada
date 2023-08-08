@@ -8,4 +8,6 @@
 - Monitor hidden features under bridges, trees, shade and water.
 
 #
+https://open.canada.ca/en/forms/submit-your-app
+#
 ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
