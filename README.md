@@ -11,7 +11,10 @@
 #
 ### NOTES
 
-[Ontario Parks](https://news.ontario.ca/en/release/56903/ontario-opening-provincial-parks-and-conservation-reserves) manages 340 provincial parks and 295 conservation reserves covering over **nine million hectares** of land in the province.
+> [!NOTE]
+> - [Ontario Parks](https://news.ontario.ca/en/release/56903/ontario-opening-provincial-parks-and-conservation-reserves) manages 340 provincial parks and 295 conservation reserves covering over **nine million hectares** of land in the province.
+>
+> - Portugal is around 92,090 square kilometers, making nine million hectares very close in size to the entire country.
 
 #
 https://open.canada.ca/en/forms/submit-your-app
