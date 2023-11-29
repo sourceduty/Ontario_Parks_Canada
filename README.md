@@ -8,12 +8,6 @@
 - Monitor hidden features under bridges, trees, shade and water.
 
 #
-> [!NOTE]
-> - Ontario's park buildings use approximately 2,171,200.664 square feet of Ontario's park land area.
-> 
-> - The world's largest shopping malls consume a similar amount of area. For example, the Mall of America in Minnesota covers about 2.77 million square feet of retail space.
-
-#
 https://open.canada.ca/en/forms/submit-your-app
 #
 ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
