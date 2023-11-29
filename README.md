@@ -9,7 +9,6 @@
 - Monitor hidden features under bridges, trees, shade and water.
 
 #
-### NOTES
 
 > [!NOTE]
 > - [Ontario Parks](https://news.ontario.ca/en/release/56903/ontario-opening-provincial-parks-and-conservation-reserves) manages 340 provincial parks and 295 conservation reserves covering over **nine million hectares** of land in the province.
