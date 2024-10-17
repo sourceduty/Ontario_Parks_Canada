@@ -1,6 +1,6 @@
 ![Park Console](https://github.com/user-attachments/assets/86a0a8f2-9580-4ee7-8e02-633d9dbe9725)
 
-> Software concept for public satellite assisted landscape monitoring software.
+> Public satellite assisted landscape monitoring software and park computers.
 #
 
 ### Landscape Monitoring
