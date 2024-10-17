@@ -18,7 +18,7 @@ Additionally, these digital information hubs can serve educational purposes. The
 Beyond providing information, public park touchscreen pedestals can also offer connectivity and entertainment. Many touchscreens come with internet access, allowing visitors to browse or download maps, check public transportation schedules, or even stream multimedia content. Such features can be particularly valuable for tourists or park visitors who may not have local knowledge. Additionally, they offer a convenient way for park authorities to gather data on visitor interactions and preferences, potentially helping to inform future park improvements and environmental initiatives.
 
 #
-### RElated Links
+### Related Links
 
 [Canada.ca](https://open.canada.ca/en/forms/submit-your-app)
 <br>
