@@ -23,6 +23,10 @@ Beyond providing information, public park touchscreen pedestals can also offer c
 [Canada.ca](https://open.canada.ca/en/forms/submit-your-app)
 <br>
 [Ontario Parks](https://news.ontario.ca/en/release/56903/ontario-opening-provincial-parks-and-conservation-reserves)
+<br>
+[Urban Update](https://github.com/sourceduty/Urban_Update)
+<br>
+[Modernization](https://github.com/sourceduty/Modernization)
 
 ***
 ℹ️ This information is free and open-source; anyone can redistribute it and/or modify it.
